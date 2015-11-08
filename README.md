@@ -7,12 +7,12 @@ Membros:
 
 Idemar dos Santos - idemas_@hotmail.com
 
-Danilo Pinto - 
+Danilo Pinto - danilojpinto@hotmail.com
 
-Ícaro Farias -
+Ícaro Farias - icsfar@gmail.com
 
 Victor Ben-Hur - vbenhur@gmail.com
 
-Ney Barros -
+Ney Barros - junior.m_16@hotmail.com
 
 Os códigos do arduino e matlab encontram-se disponíveis neste repositório.

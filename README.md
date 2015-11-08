@@ -7,12 +7,12 @@ Membros:
 
 Idemar dos Santos - [removido]
 
-Danilo Pinto - 
+Danilo Pinto - [removido]
 
-Ícaro Farias -
+Ícaro Farias - [removido]
 
 Victor Ben-Hur - [removido]
 
-Ney Barros -
+Ney Barros - [removido]
 
 Os códigos do arduino e matlab encontram-se disponíveis neste repositório.

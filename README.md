@@ -5,6 +5,8 @@ Atividade desenvolvida na disciplina Microcontroladores do curso de Engenharia E
 
 Link do vídeo https://www.youtube.com/watch?v=YRdU64J9sTQ
 
+![Robo](vbenhur.github.com/Robo-RRR-PID-Arduino-MATLAB/Images/IMG_20151106_173716772.jpg?raw=true)
+
 Membros:
 
 Idemar dos Santos - idemas_@hotmail.com
